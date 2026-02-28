@@ -7,10 +7,10 @@
 > 
 > Feel free to copy the file from below this point onwards, include in your own projects, and modify it from there.
 
-# 🕶️ AGENT-SMITH-MD v1
+# 🕶️ AGENT-SMITH-MD v1.0.1
 
 ## General Reminders
-- Feel free to tweak the **AGENTS.md** files the next time you hit a blocker—modify/delete as needed to unblock future requests.
+- Feel free to tweak the `AGENTS.md` files the next time you hit a blocker—modify/delete as needed to unblock future requests.
 - When working in a monorepo/workspace, feel free to create an app/project-specific `AGENTS.md` file to add granularity of control for specific apps/projects.
 
 ## Recommended Actions
