@@ -1,5 +1,3 @@
-# 🕶️ AGENT-SMITH.md v1
-
 > [!NOTE]
 > The following is my current `AGENTS.md` file containing the points I would like to remind my AI coding agent when issuing commands.
 > The points I mention here are based on my experience with the agentic development workflow.
@@ -8,6 +6,8 @@
 > I'll try to constantly keep the file updated and implement it across my projects.
 > 
 > Feel free to copy the file from below this point onwards, include in your own projects, and modify it from there.
+
+# 🕶️ AGENT-SMITH.md v1
 
 ## General Reminders
 - Feel free to tweak the **AGENTS.md** files the next time you hit a blocker—modify/delete as needed to unblock future requests.
