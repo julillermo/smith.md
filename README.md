@@ -7,7 +7,7 @@
 > 
 > Feel free to copy the file from below this point onwards, include in your own projects, and modify it from there.
 
-# 🕶️ AGENT-SMITH.md v1
+# 🕶️ AGENT-SMITH-MD v1
 
 ## General Reminders
 - Feel free to tweak the **AGENTS.md** files the next time you hit a blocker—modify/delete as needed to unblock future requests.
